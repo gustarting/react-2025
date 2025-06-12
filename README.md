@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Curso de React js desde cero y con proyectos" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="500" />
+<img alt="Curso de React js desde cero y con proyectos" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="150" />
 
 # React 2025 - Aprendiendo React ⚛️
 
